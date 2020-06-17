@@ -1,0 +1,29 @@
+E:\Brisov\Jarvis\Jarvis\bin\Debug\Jarvis.exe.config
+E:\Brisov\Jarvis\Jarvis\obj\Debug\Jarvis.csprojResolveAssemblyReference.cache
+E:\Brisov\Jarvis\Jarvis\obj\Debug\MainWindow.baml
+E:\Brisov\Jarvis\Jarvis\obj\Debug\MainWindow.g.cs
+E:\Brisov\Jarvis\Jarvis\obj\Debug\App.g.cs
+E:\Brisov\Jarvis\Jarvis\obj\Debug\Jarvis_MarkupCompile.cache
+E:\Brisov\Jarvis\Jarvis\obj\Debug\Jarvis.g.resources
+E:\Brisov\Jarvis\Jarvis\obj\Debug\Jarvis.Properties.Resources.resources
+E:\Brisov\Jarvis\Jarvis\obj\Debug\Jarvis.csproj.GenerateResource.Cache
+E:\Brisov\Jarvis\Jarvis\bin\Debug\Jarvis.exe
+E:\Brisov\Jarvis\Jarvis\bin\Debug\Jarvis.pdb
+E:\Brisov\Jarvis\Jarvis\obj\Debug\Jarvis.exe
+E:\Brisov\Jarvis\Jarvis\obj\Debug\Jarvis.pdb
+D:\2 path\курсач\Jarvis\Jarvis\bin\Debug\Jarvis.exe.config
+D:\2 path\курсач\Jarvis\Jarvis\bin\Debug\Jarvis.exe
+D:\2 path\курсач\Jarvis\Jarvis\bin\Debug\Jarvis.pdb
+D:\2 path\курсач\Jarvis\Jarvis\obj\Debug\Jarvis.csprojAssemblyReference.cache
+D:\2 path\курсач\Jarvis\Jarvis\obj\Debug\MainWindow.baml
+D:\2 path\курсач\Jarvis\Jarvis\obj\Debug\MainWindow.g.cs
+D:\2 path\курсач\Jarvis\Jarvis\obj\Debug\App.g.cs
+D:\2 path\курсач\Jarvis\Jarvis\obj\Debug\Jarvis_MarkupCompile.cache
+D:\2 path\курсач\Jarvis\Jarvis\obj\Debug\Jarvis.g.resources
+D:\2 path\курсач\Jarvis\Jarvis\obj\Debug\Jarvis.Properties.Resources.resources
+D:\2 path\курсач\Jarvis\Jarvis\obj\Debug\Jarvis.csproj.GenerateResource.cache
+D:\2 path\курсач\Jarvis\Jarvis\obj\Debug\Jarvis.csproj.CoreCompileInputs.cache
+D:\2 path\курсач\Jarvis\Jarvis\obj\Debug\Jarvis.exe
+D:\2 path\курсач\Jarvis\Jarvis\obj\Debug\Jarvis.pdb
+D:\2 path\курсач\Jarvis\Jarvis\obj\Debug\App.baml
+E:\Brisov\Jarvis\Jarvis\obj\Debug\App.baml
